@@ -14,5 +14,3 @@ alert('Your full name is: ' + userName + ' ' + surname + ', your age is: ' + age
 
 let access = confirm('Are you admin?');
 alert('Your full name is: ' + userName + ' ' + surname + ', your age is: ' + age + ', admin status: ' + access);
-
-
